@@ -1,2 +1,2 @@
 # resume
-SxResume
+Simple Resume Page 
